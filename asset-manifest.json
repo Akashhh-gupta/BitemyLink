@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BitemyLink/static/css/main.90fb43ae.css",
+    "main.js": "/BitemyLink/static/js/main.9c5e23dc.js",
+    "index.html": "/BitemyLink/index.html",
+    "main.90fb43ae.css.map": "/BitemyLink/static/css/main.90fb43ae.css.map",
+    "main.9c5e23dc.js.map": "/BitemyLink/static/js/main.9c5e23dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90fb43ae.css",
+    "static/js/main.9c5e23dc.js"
+  ]
+}
